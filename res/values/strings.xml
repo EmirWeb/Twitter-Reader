@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">TwitterReader</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter Twitter Search</string>
+    <string name="image_alert">Could not read profile information</string>
+    <string name="empty_string_alert">The search is empty, please enter a valid search.</string>
+    <string name="searching_for_tweets">Searching for tweets</string>
+    <string name="searching_for_tweets_title">Searching</string>
+    <string name="search_extra_name">SEARCH</string>
+    <string name="tweet_extra_name">TWEET</string>
+</resources>
